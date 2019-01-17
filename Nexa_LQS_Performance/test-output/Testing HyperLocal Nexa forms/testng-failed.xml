@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Testing HyperLocal Nexa forms]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Testing LQS Live Website(failed)">
+    <classes>
+      <class name="com.test.NexaLQS.Testing_NEXA_LQS_Performance">
+        <methods>
+          <include name="Insurance_openDealerBrowser"/>
+        </methods>
+      </class> <!-- com.test.NexaLQS.Testing_NEXA_LQS_Performance -->
+    </classes>
+  </test> <!-- Testing LQS Live Website(failed) -->
+</suite> <!-- Failed suite [Testing HyperLocal Nexa forms] -->
